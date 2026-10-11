@@ -1,0 +1,2029 @@
+{
+ "generated_from": "data-Alqoyyum-royal-clinic.xlsx",
+ "categories": [
+  {
+   "name": "Obat",
+   "receipt_label": "Obat",
+   "receipt_order": 4,
+   "sort_order": 1,
+   "icon_name": "medicine/medicine"
+  },
+  {
+   "name": "Jasa",
+   "receipt_label": "Jasa",
+   "receipt_order": 1,
+   "sort_order": 2,
+   "icon_name": "service/service"
+  },
+  {
+   "name": "Tindakan",
+   "receipt_label": "Jasa",
+   "receipt_order": 1,
+   "sort_order": 3,
+   "icon_name": "treatment/procedure"
+  },
+  {
+   "name": "Lab",
+   "receipt_label": "Lab",
+   "receipt_order": 2,
+   "sort_order": 4,
+   "icon_name": "service/lab"
+  },
+  {
+   "name": "BHP",
+   "receipt_label": "BHP",
+   "receipt_order": 5,
+   "sort_order": 5,
+   "icon_name": "equipment/equipment"
+  },
+  {
+   "name": "Alat",
+   "receipt_label": "Alat",
+   "receipt_order": 3,
+   "sort_order": 6,
+   "icon_name": "equipment/equipment"
+  }
+ ],
+ "products": [
+  {
+   "name": "Quatro",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 5914.08,
+   "sale_price": 6000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B3"
+  },
+  {
+   "name": "Isoflavit",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 7920.0,
+   "sale_price": 8000,
+   "price_editable": false,
+   "icon_name": "medicine/vitamin",
+   "source": "HARGA!B4"
+  },
+  {
+   "name": "Glutrop",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 26136.0,
+   "sale_price": 27000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B5"
+  },
+  {
+   "name": "Mozuku",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 108000.0,
+   "sale_price": 110000,
+   "price_editable": false,
+   "icon_name": "medicine/vitamin",
+   "source": "HARGA!B6"
+  },
+  {
+   "name": "Prolacta For Mother",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 8791.2,
+   "sale_price": 9000,
+   "price_editable": false,
+   "icon_name": "medicine/vitamin",
+   "source": "HARGA!B7"
+  },
+  {
+   "name": "Oxyvel",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 7405.92,
+   "sale_price": 7500,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B8"
+  },
+  {
+   "name": "Nutriflam",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 18849.6,
+   "sale_price": 19000,
+   "price_editable": false,
+   "icon_name": "medicine/vitamin",
+   "source": "HARGA!B9"
+  },
+  {
+   "name": "Infusan NS",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": null,
+   "sale_price": 35000,
+   "price_editable": false,
+   "icon_name": "medicine/infusion",
+   "source": "HARGA!B10"
+  },
+  {
+   "name": "Sporetik 200",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 42120.0,
+   "sale_price": 43000,
+   "price_editable": false,
+   "icon_name": "medicine/capsule",
+   "source": "HARGA!B11"
+  },
+  {
+   "name": "Trovensis",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 19980.0,
+   "sale_price": 20000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B12"
+  },
+  {
+   "name": "Mefinal",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 23253.12,
+   "sale_price": 4000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B13"
+  },
+  {
+   "name": "Sanmol",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 760.32,
+   "sale_price": 1000,
+   "price_editable": false,
+   "icon_name": "medicine/tablet",
+   "source": "HARGA!B14"
+  },
+  {
+   "name": "Caldece",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 47520.0,
+   "sale_price": 48000,
+   "price_editable": false,
+   "icon_name": "medicine/vitamin",
+   "source": "HARGA!B15"
+  },
+  {
+   "name": "Sanvita-B",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 61488.0,
+   "sale_price": 62000,
+   "price_editable": false,
+   "icon_name": "medicine/vitamin",
+   "source": "HARGA!B16"
+  },
+  {
+   "name": "Prove D3-1000",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 4867.2,
+   "sale_price": 5000,
+   "price_editable": false,
+   "icon_name": "medicine/vitamin",
+   "source": "HARGA!B17"
+  },
+  {
+   "name": "Prove D3-5000",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 7056.0,
+   "sale_price": 7500,
+   "price_editable": false,
+   "icon_name": "medicine/vitamin",
+   "source": "HARGA!B18"
+  },
+  {
+   "name": "Plasminex",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 4464.0,
+   "sale_price": 5000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B19"
+  },
+  {
+   "name": "Floragyn",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 23976.0,
+   "sale_price": 24000,
+   "price_editable": false,
+   "icon_name": "medicine/pill_pack",
+   "source": "HARGA!B20"
+  },
+  {
+   "name": "Microgest 200 mg",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 36038.4,
+   "sale_price": 37000,
+   "price_editable": false,
+   "icon_name": "medicine/pill_pack",
+   "source": "HARGA!B21"
+  },
+  {
+   "name": "Sagestam",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 23040.0,
+   "sale_price": 26000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B22"
+  },
+  {
+   "name": "Apolar Desonide",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 67824.0,
+   "sale_price": 68000,
+   "price_editable": false,
+   "icon_name": "medicine/ointment",
+   "source": "HARGA!B23"
+  },
+  {
+   "name": "Tremenza",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 3600.0,
+   "sale_price": 4000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B24"
+  },
+  {
+   "name": "Dopamet",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 4320.0,
+   "sale_price": 5000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B25"
+  },
+  {
+   "name": "Loratadine",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 648.0,
+   "sale_price": 1000,
+   "price_editable": false,
+   "icon_name": "medicine/tablet",
+   "source": "HARGA!B26"
+  },
+  {
+   "name": "Rhinos",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 9792.0,
+   "sale_price": 13000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B27"
+  },
+  {
+   "name": "Lactamam",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 4039.2,
+   "sale_price": 5000,
+   "price_editable": false,
+   "icon_name": "medicine/capsule",
+   "source": "HARGA!B28"
+  },
+  {
+   "name": "Nipvell",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 67320.0,
+   "sale_price": 68000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B29"
+  },
+  {
+   "name": "Eazycal",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 8791.2,
+   "sale_price": 9000,
+   "price_editable": false,
+   "icon_name": "medicine/vitamin",
+   "source": "HARGA!B30"
+  },
+  {
+   "name": "Nasal Aspirator",
+   "category": "Alat",
+   "unit": "pcs",
+   "cost_price": 42840.0,
+   "sale_price": 43000,
+   "price_editable": false,
+   "icon_name": "equipment/equipment",
+   "source": "HARGA!B31"
+  },
+  {
+   "name": "Cyclo-Progynova",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 311220.0,
+   "sale_price": 312000,
+   "price_editable": false,
+   "icon_name": "medicine/pill_pack",
+   "source": "HARGA!B32"
+  },
+  {
+   "name": "Nova T IUD",
+   "category": "Alat",
+   "unit": "pcs",
+   "cost_price": 504000.0,
+   "sale_price": 650000,
+   "price_editable": false,
+   "icon_name": "treatment/iud",
+   "source": "HARGA!B33"
+  },
+  {
+   "name": "Ultra Sonic Gel",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 30240.0,
+   "sale_price": 31000,
+   "price_editable": false,
+   "icon_name": "equipment/jelly",
+   "source": "HARGA!B34"
+  },
+  {
+   "name": "Promavit",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 5544.0,
+   "sale_price": 6000,
+   "price_editable": false,
+   "icon_name": "medicine/vitamin",
+   "source": "HARGA!B35"
+  },
+  {
+   "name": "Trichodazol Ovula",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 24480.0,
+   "sale_price": 26000,
+   "price_editable": false,
+   "icon_name": "medicine/suppository",
+   "source": "HARGA!B36"
+  },
+  {
+   "name": "Day-Cal",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 2917.08,
+   "sale_price": 3000,
+   "price_editable": false,
+   "icon_name": "medicine/vitamin",
+   "source": "HARGA!B37"
+  },
+  {
+   "name": "Fuladic",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 76320.0,
+   "sale_price": 77000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B38"
+  },
+  {
+   "name": "GOVAZOL 150 MG",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 324000.0,
+   "sale_price": 325000,
+   "price_editable": false,
+   "icon_name": "medicine/capsule",
+   "source": "HARGA!B39"
+  },
+  {
+   "name": "THECORRT CREAM 5 GR",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 77760.0,
+   "sale_price": 78000,
+   "price_editable": false,
+   "icon_name": "medicine/ointment",
+   "source": "HARGA!B40"
+  },
+  {
+   "name": "ZIBRAMAX 500 MG",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 57600.0,
+   "sale_price": 58000,
+   "price_editable": false,
+   "icon_name": "medicine/capsule",
+   "source": "HARGA!B41"
+  },
+  {
+   "name": "BIOFOLAT",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 7992.0,
+   "sale_price": 8000,
+   "price_editable": false,
+   "icon_name": "medicine/vitamin",
+   "source": "HARGA!B42"
+  },
+  {
+   "name": "Nelandoz 2mg",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 620640.0,
+   "sale_price": 620000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B43"
+  },
+  {
+   "name": "Sancoidan",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 24000.0,
+   "sale_price": 24000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B44"
+  },
+  {
+   "name": "Curcuma Sanbe",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 1267.2,
+   "sale_price": 1500,
+   "price_editable": false,
+   "icon_name": "medicine/vitamin",
+   "source": "HARGA!B45"
+  },
+  {
+   "name": "NSC",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 296208.0,
+   "sale_price": 297000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B46"
+  },
+  {
+   "name": "Noprostol",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 15120.0,
+   "sale_price": 17000,
+   "price_editable": false,
+   "icon_name": "medicine/pill_pack",
+   "source": "HARGA!B47"
+  },
+  {
+   "name": "Cortidex",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 576.0,
+   "sale_price": 1000,
+   "price_editable": false,
+   "icon_name": "medicine/tablet",
+   "source": "HARGA!B48"
+  },
+  {
+   "name": "Visanne Dienogest 2 mg",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 30960.0,
+   "sale_price": 31000,
+   "price_editable": false,
+   "icon_name": "medicine/pill_pack",
+   "source": "HARGA!B49"
+  },
+  {
+   "name": "Dismeno",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 7192.8,
+   "sale_price": 7200,
+   "price_editable": false,
+   "icon_name": "medicine/pill_pack",
+   "source": "HARGA!B50"
+  },
+  {
+   "name": "Blesifen",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 20619.36,
+   "sale_price": 21000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B51"
+  },
+  {
+   "name": "Regumen",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 6473.52,
+   "sale_price": 7000,
+   "price_editable": false,
+   "icon_name": "medicine/pill_pack",
+   "source": "HARGA!B52"
+  },
+  {
+   "name": "Albutrop",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 7192.8,
+   "sale_price": 7500,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B53"
+  },
+  {
+   "name": "Folamil Genio",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 203796.0,
+   "sale_price": 205000,
+   "price_editable": false,
+   "icon_name": "medicine/vitamin",
+   "source": "HARGA!B54"
+  },
+  {
+   "name": "Lidocain 20 mg",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 2060.16,
+   "sale_price": 2500,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B55"
+  },
+  {
+   "name": "Fermom",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 3170.16,
+   "sale_price": 4000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B56"
+  },
+  {
+   "name": "Ondavell",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 23096.88,
+   "sale_price": 24000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B57"
+  },
+  {
+   "name": "Cefadroxil",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 1072.8,
+   "sale_price": 1500,
+   "price_editable": false,
+   "icon_name": "medicine/capsule",
+   "source": "HARGA!B58"
+  },
+  {
+   "name": "Cefixime",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 1329.75,
+   "sale_price": 7000,
+   "price_editable": false,
+   "icon_name": "medicine/capsule",
+   "source": "HARGA!B59"
+  },
+  {
+   "name": "Ranitidine",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 576.0,
+   "sale_price": 1000,
+   "price_editable": false,
+   "icon_name": "medicine/tablet",
+   "source": "HARGA!B60"
+  },
+  {
+   "name": "Salgen Oint",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 7776.0,
+   "sale_price": 8000,
+   "price_editable": false,
+   "icon_name": "medicine/ointment",
+   "source": "HARGA!B61"
+  },
+  {
+   "name": "Microlax",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 28440.0,
+   "sale_price": 30000,
+   "price_editable": false,
+   "icon_name": "medicine/suppository",
+   "source": "HARGA!B62"
+  },
+  {
+   "name": "KingVit",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 11741.62,
+   "sale_price": 12000,
+   "price_editable": false,
+   "icon_name": "medicine/vitamin",
+   "source": "HARGA!B63"
+  },
+  {
+   "name": "QueenVit",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 11741.62,
+   "sale_price": 12000,
+   "price_editable": false,
+   "icon_name": "medicine/vitamin",
+   "source": "HARGA!B64"
+  },
+  {
+   "name": "Urotractin",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": null,
+   "sale_price": 5500,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B65"
+  },
+  {
+   "name": "Cerini",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 6885.0,
+   "sale_price": 7000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B66"
+  },
+  {
+   "name": "Clindamycin",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": null,
+   "sale_price": 3000,
+   "price_editable": false,
+   "icon_name": "medicine/capsule",
+   "source": "HARGA!B67"
+  },
+  {
+   "name": "Sanadryl Expectoran",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": null,
+   "sale_price": 32000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B68"
+  },
+  {
+   "name": "Sanadryl DMP",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": null,
+   "sale_price": 45000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B69"
+  },
+  {
+   "name": "Ondavar",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 13321.66,
+   "sale_price": 15000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B70"
+  },
+  {
+   "name": "Forti D2000",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 4202.97,
+   "sale_price": 4500,
+   "price_editable": false,
+   "icon_name": "medicine/vitamin",
+   "source": "HARGA!B71"
+  },
+  {
+   "name": "Primolut",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 8603.4,
+   "sale_price": 9000,
+   "price_editable": false,
+   "icon_name": "medicine/pill_pack",
+   "source": "HARGA!B72"
+  },
+  {
+   "name": "Yasmin",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 7168.22,
+   "sale_price": 8000,
+   "price_editable": false,
+   "icon_name": "medicine/pill_pack",
+   "source": "HARGA!B73"
+  },
+  {
+   "name": "Novenyl",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 12907.1,
+   "sale_price": 14000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B74"
+  },
+  {
+   "name": "Metvell",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 3972.19,
+   "sale_price": 5000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B75"
+  },
+  {
+   "name": "Caloma",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 3904.27,
+   "sale_price": 5000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B76"
+  },
+  {
+   "name": "Kalnex",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 7064.93,
+   "sale_price": 7500,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B78"
+  },
+  {
+   "name": "Magsivell",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 6192.0,
+   "sale_price": 7000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B79"
+  },
+  {
+   "name": "Profertil",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 31680.0,
+   "sale_price": 35000,
+   "price_editable": false,
+   "icon_name": "medicine/vitamin",
+   "source": "HARGA!B80"
+  },
+  {
+   "name": "Constuloz",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 10325.66,
+   "sale_price": 11000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B81"
+  },
+  {
+   "name": "Hecosan",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 89100.0,
+   "sale_price": 90000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B82"
+  },
+  {
+   "name": "Ceftriaxone sodium 1 G Inj",
+   "category": "Obat",
+   "unit": "ampul",
+   "cost_price": 41058.9,
+   "sale_price": 45000,
+   "price_editable": false,
+   "icon_name": "medicine/ampul",
+   "source": "HARGA!B83"
+  },
+  {
+   "name": "Oxytocin Inj",
+   "category": "Obat",
+   "unit": "ampul",
+   "cost_price": 8091.9,
+   "sale_price": 10000,
+   "price_editable": false,
+   "icon_name": "medicine/ampul",
+   "source": "HARGA!B84"
+  },
+  {
+   "name": "WI 20 Ml (Aqua Pro Injection)",
+   "category": "Obat",
+   "unit": "ampul",
+   "cost_price": 18881.1,
+   "sale_price": 20000,
+   "price_editable": false,
+   "icon_name": "medicine/ampul",
+   "source": "HARGA!B85"
+  },
+  {
+   "name": "Betadine",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": null,
+   "sale_price": 5000,
+   "price_editable": false,
+   "icon_name": "equipment/spray",
+   "source": "HARGA!B86"
+  },
+  {
+   "name": "Methylprednisolone",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 1888.48,
+   "sale_price": 2000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B87"
+  },
+  {
+   "name": "Triamcinolone",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 12480.44,
+   "sale_price": 13000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B88"
+  },
+  {
+   "name": "Sucralfat Syruf",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 15857.1,
+   "sale_price": 20000,
+   "price_editable": false,
+   "icon_name": "medicine/syrup",
+   "source": "HARGA!B89"
+  },
+  {
+   "name": "Pumpisel Inj (serbuk)",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": null,
+   "sale_price": 260000,
+   "price_editable": false,
+   "icon_name": "medicine/ampul",
+   "source": "HARGA!B90"
+  },
+  {
+   "name": "Trovensis Inj",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": null,
+   "sale_price": 300000,
+   "price_editable": false,
+   "icon_name": "medicine/ampul",
+   "source": "HARGA!B91"
+  },
+  {
+   "name": "Neurosanbe",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": null,
+   "sale_price": 10000,
+   "price_editable": false,
+   "icon_name": "medicine/vitamin",
+   "source": "HARGA!B92"
+  },
+  {
+   "name": "Maltofer",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 4185.0,
+   "sale_price": 4500,
+   "price_editable": false,
+   "icon_name": "medicine/vitamin",
+   "source": "HARGA!B93"
+  },
+  {
+   "name": "Bledstop",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 2160.0,
+   "sale_price": 2200,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B94"
+  },
+  {
+   "name": "Fetik Suppositoria",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 37312.65,
+   "sale_price": 38000,
+   "price_editable": false,
+   "icon_name": "medicine/suppository",
+   "source": "HARGA!B95"
+  },
+  {
+   "name": "Tuzalos",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 1701.0,
+   "sale_price": 2000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B96"
+  },
+  {
+   "name": "Endrolin",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 1890000.0,
+   "sale_price": 2500000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B98"
+  },
+  {
+   "name": "Ondansetron",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 540.0,
+   "sale_price": 3000,
+   "price_editable": false,
+   "icon_name": "medicine/tablet",
+   "source": "HARGA!B99"
+  },
+  {
+   "name": "Stretchwell",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 298900.8,
+   "sale_price": 300000,
+   "price_editable": false,
+   "icon_name": "medicine/ointment",
+   "source": "HARGA!B100"
+  },
+  {
+   "name": "Oxofarin",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 145800.0,
+   "sale_price": 150000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B102"
+  },
+  {
+   "name": "Ondane",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 143712.0,
+   "sale_price": 150000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B103"
+  },
+  {
+   "name": "Vagistin",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": null,
+   "sale_price": 22000,
+   "price_editable": false,
+   "icon_name": "medicine/suppository",
+   "source": "HARGA!B104"
+  },
+  {
+   "name": "Feroplus",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": null,
+   "sale_price": 58000,
+   "price_editable": false,
+   "icon_name": "medicine/vitamin",
+   "source": "HARGA!B105"
+  },
+  {
+   "name": "Intunal F",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 1080.0,
+   "sale_price": 1500,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B106"
+  },
+  {
+   "name": "Cipro",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 675.0,
+   "sale_price": 1000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B107"
+  },
+  {
+   "name": "Hethylpred",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 2160.0,
+   "sale_price": 3000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B108"
+  },
+  {
+   "name": "Epexol",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 30510.0,
+   "sale_price": 31000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B109"
+  },
+  {
+   "name": "Espreson",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 110295.0,
+   "sale_price": 112000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B110"
+  },
+  {
+   "name": "Bioplacenton 15",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 38745.0,
+   "sale_price": 40000,
+   "price_editable": false,
+   "icon_name": "medicine/ointment",
+   "source": "HARGA!B111"
+  },
+  {
+   "name": "Trhombophob 20",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 103410.0,
+   "sale_price": 105000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B112"
+  },
+  {
+   "name": "Diatabs",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 1080.0,
+   "sale_price": 1200,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B113"
+  },
+  {
+   "name": "Cepat",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 18765.0,
+   "sale_price": 20000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B114"
+  },
+  {
+   "name": "Kalgestin",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": null,
+   "sale_price": 15000,
+   "price_editable": false,
+   "icon_name": "medicine/ointment",
+   "source": "HARGA!B115"
+  },
+  {
+   "name": "Lodia",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 1957.5,
+   "sale_price": 2000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B116"
+  },
+  {
+   "name": "Kaltrofen",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": 32879.52,
+   "sale_price": 35000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B117"
+  },
+  {
+   "name": "Zoltin",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": null,
+   "sale_price": 25000,
+   "price_editable": false,
+   "icon_name": "medicine/medicine",
+   "source": "HARGA!B118"
+  },
+  {
+   "name": "Buku KIA",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": null,
+   "sale_price": 20000,
+   "price_editable": false,
+   "icon_name": "service/admin",
+   "source": "HARGA!B119"
+  },
+  {
+   "name": "Konsultasi Dokter",
+   "category": "Jasa",
+   "unit": null,
+   "cost_price": 120000.0,
+   "sale_price": 120000,
+   "price_editable": false,
+   "icon_name": "service/consultation",
+   "source": "HARGA!B120"
+  },
+  {
+   "name": "USG 2D",
+   "category": "Jasa",
+   "unit": null,
+   "cost_price": 80000.0,
+   "sale_price": 80000,
+   "price_editable": false,
+   "icon_name": "service/ultrasound",
+   "source": "HARGA!B121"
+  },
+  {
+   "name": "USG 3D",
+   "category": "Jasa",
+   "unit": null,
+   "cost_price": 105000.0,
+   "sale_price": 105000,
+   "price_editable": false,
+   "icon_name": "service/ultrasound",
+   "source": "HARGA!B122"
+  },
+  {
+   "name": "USG 4D",
+   "category": "Jasa",
+   "unit": null,
+   "cost_price": 105000.0,
+   "sale_price": 105000,
+   "price_editable": false,
+   "icon_name": "service/ultrasound",
+   "source": "HARGA!B123"
+  },
+  {
+   "name": "Papsmear",
+   "category": "Tindakan",
+   "unit": null,
+   "cost_price": 600000.0,
+   "sale_price": 600000,
+   "price_editable": false,
+   "icon_name": "treatment/papsmear",
+   "source": "HARGA!B124"
+  },
+  {
+   "name": "Transvaginal",
+   "category": "Jasa",
+   "unit": null,
+   "cost_price": 170000.0,
+   "sale_price": 170000,
+   "price_editable": false,
+   "icon_name": "service/ultrasound",
+   "source": "HARGA!B125"
+  },
+  {
+   "name": "Inspekulo",
+   "category": "Tindakan",
+   "unit": null,
+   "cost_price": 120000.0,
+   "sale_price": 120000,
+   "price_editable": false,
+   "icon_name": "treatment/pelvic",
+   "source": "HARGA!B126"
+  },
+  {
+   "name": "Periksa dalam",
+   "category": "Tindakan",
+   "unit": null,
+   "cost_price": 35000.0,
+   "sale_price": 35000,
+   "price_editable": false,
+   "icon_name": "treatment/pelvic",
+   "source": "HARGA!B127"
+  },
+  {
+   "name": "GV",
+   "category": "Tindakan",
+   "unit": null,
+   "cost_price": 135000.0,
+   "sale_price": 135000,
+   "price_editable": false,
+   "icon_name": "treatment/bandage",
+   "source": "HARGA!B128"
+  },
+  {
+   "name": "GV Sedang",
+   "category": "Tindakan",
+   "unit": null,
+   "cost_price": 74000.0,
+   "sale_price": 74000,
+   "price_editable": false,
+   "icon_name": "treatment/bandage",
+   "source": "HARGA!B129"
+  },
+  {
+   "name": "GV Kecil",
+   "category": "Tindakan",
+   "unit": null,
+   "cost_price": 50000.0,
+   "sale_price": 55000,
+   "price_editable": false,
+   "icon_name": "treatment/bandage",
+   "source": "HARGA!B130"
+  },
+  {
+   "name": "Irigasi Vagina",
+   "category": "Tindakan",
+   "unit": null,
+   "cost_price": 275000.0,
+   "sale_price": 275000,
+   "price_editable": false,
+   "icon_name": "treatment/irrigation",
+   "source": "HARGA!B131"
+  },
+  {
+   "name": "Insersi IUD",
+   "category": "Tindakan",
+   "unit": null,
+   "cost_price": 450000.0,
+   "sale_price": 450000,
+   "price_editable": false,
+   "icon_name": "treatment/iud",
+   "source": "HARGA!B132"
+  },
+  {
+   "name": "Ekstraksi IUD",
+   "category": "Tindakan",
+   "unit": null,
+   "cost_price": 450000.0,
+   "sale_price": 450000,
+   "price_editable": false,
+   "icon_name": "treatment/iud",
+   "source": "HARGA!B133"
+  },
+  {
+   "name": "Underpads",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 5000.0,
+   "sale_price": 10000,
+   "price_editable": false,
+   "icon_name": "equipment/underpad",
+   "source": "HARGA!B134"
+  },
+  {
+   "name": "Kondom",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 10000.0,
+   "sale_price": 10000,
+   "price_editable": false,
+   "icon_name": "equipment/condom",
+   "source": "HARGA!B135"
+  },
+  {
+   "name": "Testpack",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 10000.0,
+   "sale_price": 10000,
+   "price_editable": false,
+   "icon_name": "equipment/testpack",
+   "source": "HARGA!B136"
+  },
+  {
+   "name": "Kasa",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 10000.0,
+   "sale_price": 10000,
+   "price_editable": false,
+   "icon_name": "equipment/gauze",
+   "source": "HARGA!B137"
+  },
+  {
+   "name": "Pot Urine",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 5000.0,
+   "sale_price": 5000,
+   "price_editable": false,
+   "icon_name": "equipment/pot",
+   "source": "HARGA!B138"
+  },
+  {
+   "name": "Dermafix 5x7",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 5000.0,
+   "sale_price": 5000,
+   "price_editable": false,
+   "icon_name": "equipment/tape",
+   "source": "HARGA!B139"
+  },
+  {
+   "name": "Injeksi",
+   "category": "Tindakan",
+   "unit": null,
+   "cost_price": 22000.0,
+   "sale_price": 22000,
+   "price_editable": false,
+   "icon_name": "treatment/syringe",
+   "source": "HARGA!B140"
+  },
+  {
+   "name": "Masker Nano karet",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 521.6,
+   "sale_price": 1000,
+   "price_editable": false,
+   "icon_name": "equipment/mask",
+   "source": "HARGA!B141"
+  },
+  {
+   "name": "Masker karet Santis",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 749.8,
+   "sale_price": 1500,
+   "price_editable": false,
+   "icon_name": "equipment/mask",
+   "source": "HARGA!B142"
+  },
+  {
+   "name": "Mikropore 2inch 3m",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 53790.0,
+   "sale_price": 54000,
+   "price_editable": false,
+   "icon_name": "equipment/tape",
+   "source": "HARGA!B143"
+  },
+  {
+   "name": "Mikropore 1inch 3m",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 29340.0,
+   "sale_price": 30000,
+   "price_editable": false,
+   "icon_name": "equipment/tape",
+   "source": "HARGA!B144"
+  },
+  {
+   "name": "Torniquet onemed",
+   "category": "Alat",
+   "unit": "pcs",
+   "cost_price": 21190.0,
+   "sale_price": 22000,
+   "price_editable": false,
+   "icon_name": "equipment/equipment",
+   "source": "HARGA!B145"
+  },
+  {
+   "name": "Dermafix-T5x7cm OM",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 2934.0,
+   "sale_price": 5000,
+   "price_editable": false,
+   "icon_name": "equipment/tape",
+   "source": "HARGA!B146"
+  },
+  {
+   "name": "Gunting Verban sakamed",
+   "category": "Alat",
+   "unit": "pcs",
+   "cost_price": 32600.0,
+   "sale_price": 33000,
+   "price_editable": false,
+   "icon_name": "equipment/scissors",
+   "source": "HARGA!B147"
+  },
+  {
+   "name": "Masker KF94 Mouson",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 1630.0,
+   "sale_price": 2000,
+   "price_editable": false,
+   "icon_name": "equipment/mask",
+   "source": "HARGA!B148"
+  },
+  {
+   "name": "Masker Karet anak GP Care",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 815.0,
+   "sale_price": 1500,
+   "price_editable": false,
+   "icon_name": "equipment/mask",
+   "source": "HARGA!B149"
+  },
+  {
+   "name": "Desinfektan 500 ml Snap",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 40750.0,
+   "sale_price": 45000,
+   "price_editable": false,
+   "icon_name": "equipment/spray",
+   "source": "HARGA!B150"
+  },
+  {
+   "name": "Hanscoon Steril no.6,5 GP care",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 11410.0,
+   "sale_price": 15000,
+   "price_editable": false,
+   "icon_name": "equipment/gloves",
+   "source": "HARGA!B151"
+  },
+  {
+   "name": "Spuit 1 cc Hexacare",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 1630.0,
+   "sale_price": 5000,
+   "price_editable": false,
+   "icon_name": "treatment/syringe",
+   "source": "HARGA!B152"
+  },
+  {
+   "name": "Spuit 3 cc hexacare",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 1630.0,
+   "sale_price": 5000,
+   "price_editable": false,
+   "icon_name": "treatment/syringe",
+   "source": "HARGA!B153"
+  },
+  {
+   "name": "Spuit 5 cc hexacare",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 1630.0,
+   "sale_price": 5000,
+   "price_editable": false,
+   "icon_name": "treatment/syringe",
+   "source": "HARGA!B154"
+  },
+  {
+   "name": "Foley cath no.16 onehealth",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 13040.0,
+   "sale_price": 15000,
+   "price_editable": false,
+   "icon_name": "equipment/catheter",
+   "source": "HARGA!B155"
+  },
+  {
+   "name": "Urine Bag Hexacare",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 7335.0,
+   "sale_price": 15000,
+   "price_editable": false,
+   "icon_name": "equipment/urine_bag",
+   "source": "HARGA!B156"
+  },
+  {
+   "name": "Pot 50ml",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 1630.0,
+   "sale_price": 10000,
+   "price_editable": false,
+   "icon_name": "equipment/pot",
+   "source": "HARGA!B157"
+  },
+  {
+   "name": "Mortar 100 MM Sella",
+   "category": "Alat",
+   "unit": "pcs",
+   "cost_price": 57050.0,
+   "sale_price": 60000,
+   "price_editable": false,
+   "icon_name": "equipment/equipment",
+   "source": "HARGA!B158"
+  },
+  {
+   "name": "Ring Pesarium no.7",
+   "category": "Alat",
+   "unit": "pcs",
+   "cost_price": 73350.0,
+   "sale_price": 75000,
+   "price_editable": false,
+   "icon_name": "equipment/equipment",
+   "source": "HARGA!B159"
+  },
+  {
+   "name": "Klip Plastik Obat Besar Indotik",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 154.85,
+   "sale_price": 200,
+   "price_editable": false,
+   "icon_name": "equipment/equipment",
+   "source": "HARGA!B160"
+  },
+  {
+   "name": "Handscoon 5 Safe Glove",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 73350.0,
+   "sale_price": 75000,
+   "price_editable": false,
+   "icon_name": "equipment/gloves",
+   "source": "HARGA!B161"
+  },
+  {
+   "name": "Masker Nebu Dewasa Hexacare",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 24450.0,
+   "sale_price": 25000,
+   "price_editable": false,
+   "icon_name": "equipment/mask",
+   "source": "HARGA!B162"
+  },
+  {
+   "name": "Nasal 02 Dewasa Hexacare",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 9780.0,
+   "sale_price": 10000,
+   "price_editable": false,
+   "icon_name": "equipment/mask",
+   "source": "HARGA!B163"
+  },
+  {
+   "name": "Tempat Korentang",
+   "category": "Alat",
+   "unit": "pcs",
+   "cost_price": 105950.0,
+   "sale_price": 106000,
+   "price_editable": false,
+   "icon_name": "equipment/forceps",
+   "source": "HARGA!B164"
+  },
+  {
+   "name": "Korentang",
+   "category": "Alat",
+   "unit": "pcs",
+   "cost_price": 89650.0,
+   "sale_price": 90000,
+   "price_editable": false,
+   "icon_name": "equipment/forceps",
+   "source": "HARGA!B165"
+  },
+  {
+   "name": "Alkohol SWAB Hexacare",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 16300.0,
+   "sale_price": 17000,
+   "price_editable": false,
+   "icon_name": "equipment/spray",
+   "source": "HARGA!B166"
+  },
+  {
+   "name": "Ultrafix 5x5 Onemade",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 16300.0,
+   "sale_price": 17000,
+   "price_editable": false,
+   "icon_name": "equipment/tape",
+   "source": "HARGA!B167"
+  },
+  {
+   "name": "My Jelly 82 gr Onemade",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 44010.0,
+   "sale_price": 45000,
+   "price_editable": false,
+   "icon_name": "equipment/jelly",
+   "source": "HARGA!B168"
+  },
+  {
+   "name": "Pulse Oximeter A2",
+   "category": "Alat",
+   "unit": "pcs",
+   "cost_price": 81500.0,
+   "sale_price": 82000,
+   "price_editable": false,
+   "icon_name": "equipment/oximeter",
+   "source": "HARGA!B169"
+  },
+  {
+   "name": "Inflo 18 Onemade",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 5705.0,
+   "sale_price": 7000,
+   "price_editable": false,
+   "icon_name": "equipment/cannula",
+   "source": "HARGA!B170"
+  },
+  {
+   "name": "Inflo 20 Onemade",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 5705.0,
+   "sale_price": 7000,
+   "price_editable": false,
+   "icon_name": "equipment/cannula",
+   "source": "HARGA!B171"
+  },
+  {
+   "name": "Inflo 22 Onemade",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 5705.0,
+   "sale_price": 7000,
+   "price_editable": false,
+   "icon_name": "equipment/cannula",
+   "source": "HARGA!B172"
+  },
+  {
+   "name": "Inflo 24 Onemade",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 5705.0,
+   "sale_price": 7000,
+   "price_editable": false,
+   "icon_name": "equipment/cannula",
+   "source": "HARGA!B173"
+  },
+  {
+   "name": "Threeway Stop Cock Buntut Hexacare",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 16300.0,
+   "sale_price": 17000,
+   "price_editable": false,
+   "icon_name": "equipment/cannula",
+   "source": "HARGA!B174"
+  },
+  {
+   "name": "Jelly USG 250 ml Hexacare",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 17930.0,
+   "sale_price": 18000,
+   "price_editable": false,
+   "icon_name": "service/ultrasound",
+   "source": "HARGA!B175"
+  },
+  {
+   "name": "Okeplast Plester",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 326.0,
+   "sale_price": 1000,
+   "price_editable": false,
+   "icon_name": "equipment/tape",
+   "source": "HARGA!B176"
+  },
+  {
+   "name": "Micropore 1/2 inch 3m",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 16300.0,
+   "sale_price": 18000,
+   "price_editable": false,
+   "icon_name": "equipment/tape",
+   "source": "HARGA!B177"
+  },
+  {
+   "name": "Micropore 1 inch 3m",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 29340.0,
+   "sale_price": 30000,
+   "price_editable": false,
+   "icon_name": "equipment/tape",
+   "source": "HARGA!B178"
+  },
+  {
+   "name": "Masker N95 1850 3M",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 10187.5,
+   "sale_price": 12000,
+   "price_editable": false,
+   "icon_name": "equipment/mask",
+   "source": "HARGA!B179"
+  },
+  {
+   "name": "Masker Kf94 Careion",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 1630.0,
+   "sale_price": 2500,
+   "price_editable": false,
+   "icon_name": "equipment/mask",
+   "source": "HARGA!B180"
+  },
+  {
+   "name": "Blood Set",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": 11349.69,
+   "sale_price": 12000,
+   "price_editable": false,
+   "icon_name": "equipment/cannula",
+   "source": "HARGA!B181"
+  },
+  {
+   "name": "Dokter Kandungan",
+   "category": "Jasa",
+   "unit": null,
+   "cost_price": null,
+   "sale_price": 1500000,
+   "price_editable": true,
+   "icon_name": "service/doctor",
+   "source": "kwitansi:Kuretase"
+  },
+  {
+   "name": "Dokter Anestesi & Obat Anestesi",
+   "category": "Jasa",
+   "unit": null,
+   "cost_price": null,
+   "sale_price": 900000,
+   "price_editable": true,
+   "icon_name": "service/doctor",
+   "source": "kwitansi:Kuretase"
+  },
+  {
+   "name": "Jasa Keperawatan",
+   "category": "Jasa",
+   "unit": null,
+   "cost_price": null,
+   "sale_price": 400000,
+   "price_editable": true,
+   "icon_name": "service/nursing",
+   "source": "kwitansi:Kuretase"
+  },
+  {
+   "name": "Administrasi",
+   "category": "Jasa",
+   "unit": null,
+   "cost_price": null,
+   "sale_price": 50000,
+   "price_editable": false,
+   "icon_name": "service/admin",
+   "source": "kwitansi:Kuretasi (2)"
+  },
+  {
+   "name": "One Day Care",
+   "category": "Jasa",
+   "unit": null,
+   "cost_price": null,
+   "sale_price": 500000,
+   "price_editable": true,
+   "icon_name": "service/room",
+   "source": "kwitansi:Kuretasi (2)"
+  },
+  {
+   "name": "Ruangan",
+   "category": "Jasa",
+   "unit": null,
+   "cost_price": null,
+   "sale_price": 1300000,
+   "price_editable": true,
+   "icon_name": "service/room",
+   "source": "kwitansi:lahiran"
+  },
+  {
+   "name": "Lain-lain",
+   "category": "Jasa",
+   "unit": null,
+   "cost_price": null,
+   "sale_price": 0,
+   "price_editable": true,
+   "icon_name": "service/service",
+   "source": "kwitansi:lahiran"
+  },
+  {
+   "name": "Tindakan Kuretasi",
+   "category": "Tindakan",
+   "unit": null,
+   "cost_price": null,
+   "sale_price": 2100000,
+   "price_editable": true,
+   "icon_name": "treatment/curettage",
+   "source": "kwitansi:Kuretase"
+  },
+  {
+   "name": "Tindakan Infus",
+   "category": "Tindakan",
+   "unit": null,
+   "cost_price": null,
+   "sale_price": 25000,
+   "price_editable": false,
+   "icon_name": "medicine/infusion",
+   "source": "kwitansi:Kuretase"
+  },
+  {
+   "name": "Biaya Tindakan",
+   "category": "Tindakan",
+   "unit": null,
+   "cost_price": null,
+   "sale_price": 100000,
+   "price_editable": true,
+   "icon_name": "treatment/procedure",
+   "source": "kwitansi:mabok.ngidam"
+  },
+  {
+   "name": "Jasa Tindakan (Paket Persalinan)",
+   "category": "Tindakan",
+   "unit": null,
+   "cost_price": null,
+   "sale_price": 4250000,
+   "price_editable": true,
+   "icon_name": "treatment/procedure",
+   "source": "kwitansi:lahiran"
+  },
+  {
+   "name": "Glukosa Sewaktu",
+   "category": "Lab",
+   "unit": null,
+   "cost_price": null,
+   "sale_price": 57000,
+   "price_editable": false,
+   "icon_name": "service/lab",
+   "source": "kwitansi:Kuretase"
+  },
+  {
+   "name": "HBsAG",
+   "category": "Lab",
+   "unit": null,
+   "cost_price": null,
+   "sale_price": 277000,
+   "price_editable": false,
+   "icon_name": "service/lab",
+   "source": "kwitansi:Kuretase"
+  },
+  {
+   "name": "Hematologi Rutin",
+   "category": "Lab",
+   "unit": null,
+   "cost_price": null,
+   "sale_price": 176000,
+   "price_editable": false,
+   "icon_name": "service/lab",
+   "source": "kwitansi:Kuretase"
+  },
+  {
+   "name": "Infusan RL",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": null,
+   "sale_price": 35000,
+   "price_editable": false,
+   "icon_name": "medicine/infusion",
+   "source": "kwitansi:mabok.ngidam"
+  },
+  {
+   "name": "Obat & Alkes (Paket)",
+   "category": "Obat",
+   "unit": "pcs",
+   "cost_price": null,
+   "sale_price": 0,
+   "price_editable": true,
+   "icon_name": "medicine/medicine",
+   "source": "kwitansi:Kuretasi (2)"
+  },
+  {
+   "name": "Alat Kesehatan (Paket)",
+   "category": "Alat",
+   "unit": "pcs",
+   "cost_price": null,
+   "sale_price": 0,
+   "price_editable": true,
+   "icon_name": "equipment/equipment",
+   "source": "kwitansi:lahiran"
+  },
+  {
+   "name": "Kateter",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": null,
+   "sale_price": 15000,
+   "price_editable": false,
+   "icon_name": "equipment/catheter",
+   "source": "kwitansi:Kuretase"
+  },
+  {
+   "name": "Alkohol",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": null,
+   "sale_price": 5000,
+   "price_editable": false,
+   "icon_name": "equipment/spray",
+   "source": "kwitansi:Kuretase"
+  },
+  {
+   "name": "Abbocath",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": null,
+   "sale_price": 3500,
+   "price_editable": false,
+   "icon_name": "equipment/catheter",
+   "source": "kwitansi:Kuretase"
+  },
+  {
+   "name": "Spuit 10 cc",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": null,
+   "sale_price": 5000,
+   "price_editable": false,
+   "icon_name": "treatment/syringe",
+   "source": "kwitansi:mabok.ngidam"
+  },
+  {
+   "name": "Pembalut",
+   "category": "BHP",
+   "unit": "pcs",
+   "cost_price": null,
+   "sale_price": 2000,
+   "price_editable": false,
+   "icon_name": "equipment/gauze",
+   "source": "kwitansi:KWITANSI FULL "
+  }
+ ]
+}

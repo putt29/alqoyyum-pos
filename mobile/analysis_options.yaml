@@ -1,0 +1,13 @@
+# Aturan analisis. Error & warning tetap aktif (tipe, import tidak terpakai, dll).
+# Lint gaya (flutter_lints) dan peringatan deprecation sengaja tidak dijadikan kegagalan
+# agar `flutter analyze` tetap bersih di berbagai versi Flutter.
+analyzer:
+  errors:
+    deprecated_member_use: ignore
+    deprecated_member_use_from_same_package: ignore
+  exclude:
+    - build/**
+    - android/**
+linter:
+  rules:
+    - avoid_print

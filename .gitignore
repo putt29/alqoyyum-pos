@@ -1,0 +1,23 @@
+# Backend
+backend/data/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+# Flutter / Android
+mobile/build/
+mobile/.dart_tool/
+mobile/.flutter-plugins*
+mobile/android/.gradle/
+mobile/android/local.properties
+mobile/android/gradle/
+mobile/android/gradlew*
+mobile/android/*.gradle
+mobile/android/*.gradle.kts
+mobile/android/app/*.gradle
+mobile/android/app/*.gradle.kts
+mobile/android/app/src/main/kotlin/
+mobile/android/app/src/debug/
+mobile/android/app/src/profile/
+mobile/.metadata
+mobile/pubspec.lock

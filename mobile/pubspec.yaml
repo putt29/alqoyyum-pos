@@ -1,0 +1,43 @@
+name: alqoyyum_pos
+description: Aplikasi kasir AL-QOYYUM ROYAL CLINIC (Android).
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  provider: ^6.1.2
+  http: ^1.2.2
+  intl: any
+  flutter_secure_storage: ^9.2.2
+  shared_preferences: ^2.3.2
+  path_provider: ^2.1.4
+  share_plus: ^10.1.4
+  printing: ^5.13.4
+  pdf: ^3.11.1
+  gal: ^2.3.0
+  flutter_svg: ^2.0.10+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/medicine/
+    - assets/icons/service/
+    - assets/icons/treatment/
+    - assets/icons/equipment/
+  fonts:
+    - family: Carlito
+      fonts:
+        - asset: assets/fonts/Carlito-Regular.ttf
+        - asset: assets/fonts/Carlito-Bold.ttf
+          weight: 700

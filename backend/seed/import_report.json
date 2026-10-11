@@ -1,0 +1,132 @@
+{
+ "source": "data-Alqoyyum-royal-clinic.xlsx",
+ "sheets": [
+  "KWITANSI FULL ",
+  "KWITANSI jasa",
+  "KWITANSI obat",
+  "KWITANSI obat (2)",
+  "HARGA",
+  "KWITANSI FULL  (3)",
+  "KWITANSI FULL  (2)",
+  "Kuretase",
+  "mabok.ngidam",
+  "lahiran",
+  "Kuretasi (2)",
+  "Pasang UID",
+  "Kuretasi (3)"
+ ],
+ "skipped": [],
+ "cost_unknown": [
+  {
+   "row": 10,
+   "name": "Infusan NS",
+   "cost_raw": "0"
+  },
+  {
+   "row": 65,
+   "name": "Urotractin",
+   "cost_raw": "#N/A"
+  },
+  {
+   "row": 67,
+   "name": "Clindamycin",
+   "cost_raw": "#N/A"
+  },
+  {
+   "row": 68,
+   "name": "Sanadryl Expectoran",
+   "cost_raw": "#N/A"
+  },
+  {
+   "row": 69,
+   "name": "Sanadryl DMP",
+   "cost_raw": "#N/A"
+  },
+  {
+   "row": 86,
+   "name": "Betadine",
+   "cost_raw": "0"
+  },
+  {
+   "row": 90,
+   "name": "Pumpisel Inj (serbuk)",
+   "cost_raw": "0"
+  },
+  {
+   "row": 91,
+   "name": "Trovensis Inj",
+   "cost_raw": "0"
+  },
+  {
+   "row": 92,
+   "name": "Neurosanbe",
+   "cost_raw": "0"
+  },
+  {
+   "row": 104,
+   "name": "Vagistin",
+   "cost_raw": "#N/A"
+  },
+  {
+   "row": 105,
+   "name": "Feroplus",
+   "cost_raw": "#N/A"
+  },
+  {
+   "row": 115,
+   "name": "Kalgestin",
+   "cost_raw": "#N/A"
+  },
+  {
+   "row": 118,
+   "name": "Zoltin",
+   "cost_raw": null
+  },
+  {
+   "row": 119,
+   "name": "Buku KIA",
+   "cost_raw": "#N/A"
+  }
+ ],
+ "duplicates": [
+  {
+   "row": 77,
+   "name": "Prove D3-5000",
+   "price": 7000,
+   "kept_row": 18,
+   "kept_price": 7500,
+   "note": "harga BERBEDA; dipakai baris pertama (sama seperti VLOOKUP Excel)"
+  },
+  {
+   "row": 97,
+   "name": "Ranitidine",
+   "price": 1000,
+   "kept_row": 60,
+   "kept_price": 1000,
+   "note": "harga sama, dilewati"
+  },
+  {
+   "row": 101,
+   "name": "Urotractin",
+   "price": 8000,
+   "kept_row": 65,
+   "kept_price": 5500,
+   "note": "harga BERBEDA; dipakai baris pertama (sama seperti VLOOKUP Excel)"
+  }
+ ],
+ "extras_missing_in_excel": [],
+ "counts": {
+  "products": 198,
+  "by_category": {
+   "Obat": 111,
+   "Alat": 10,
+   "BHP": 48,
+   "Jasa": 12,
+   "Tindakan": 14,
+   "Lab": 3
+  },
+  "from_harga": 176,
+  "from_kwitansi": 22,
+  "price_editable": 11
+ }
+}

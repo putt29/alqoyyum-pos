@@ -1,0 +1,15 @@
+services:
+  api:
+    build: ./backend
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      OWNER_PASSWORD: ${OWNER_PASSWORD:-}       # kosong = dibuat acak & dicetak di log pertama kali
+      JWT_SECRET: ${JWT_SECRET:-}               # kosong = dibuat otomatis & disimpan di database
+      DEFAULT_NEXT_SEQUENCE: ${DEFAULT_NEXT_SEQUENCE:-368}
+      TOKEN_TTL_MINUTES: ${TOKEN_TTL_MINUTES:-720}
+    volumes:
+      - alqoyyum-data:/data                     # database SQLite (cadangkan berkala!)
+volumes:
+  alqoyyum-data:
